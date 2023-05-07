@@ -24,7 +24,7 @@ development in simple fashion, but I wish to go more indebt into it, thus my pur
 
 This will be provided as the program is completed and running.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/3zPg21k9nuM)
 
 # Development Environment
 for the development environment, I used Visual Studio Code as my editor.
@@ -37,8 +37,7 @@ and CSS, was used for visual display.
 
 The google chrome developer platform was also a very important tool that I used for this project to determine various screen size and resolution. 
 
-Github was also a tool for cloud storage of my code, and I used it to create an actual web link that can be use to easily access the program online. The below link will actually open the program on a web browser.
-
+Github was also a tool for cloud storage of my code, and I used it to create an actual web link that can be use to easily access the program online. 
 
 
 # Describe the programming language that you used
